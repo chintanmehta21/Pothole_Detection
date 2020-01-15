@@ -2,4 +2,4 @@ classes = 1
 train = Dataset/train.txt
 valid = Dataset/test.txt
 names = cfg/obj.names
-backup = pothole_weights/
+backup = backup/
